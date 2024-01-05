@@ -30,6 +30,15 @@ Here's a brief guide for Visual Studio Code:
 
 1. Clone or download the BMI Calculator repository to your local machine.
 2. Open the project in Visual Studio Code.
+
+### BMI Calculator (ImcApp)
+
+3. Run the `ImcApp.java` file.
+4. Follow the on-screen prompts to input your weight and height.
+5. The program will calculate your BMI and display the result.
+
+### Personal Information (PersonApp)
+
 3. Run the `PersonApp.java` file.
 4. Follow the on-screen prompts to input your basic personal information (name, age, and gender).
 5. The program will create a simple profile with the provided details and display them.
